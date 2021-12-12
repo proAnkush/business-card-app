@@ -4,6 +4,7 @@
     background-color: aquamarine;
     display: flex;
     text-align: center;
+    min-width: 600px;
 }
 .Output{
     align-items: right;

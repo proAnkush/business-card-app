@@ -1,6 +1,7 @@
 .Output{
     text-align: -webkit-center;
     background-image: url(../imgs/woodback.jpg);
+    min-width: 600px;
 }
 #brandLogoOutput{
     width: 50px;
