@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/business-card-app/static/css/main.4d156b93.chunk.css",
-    "main.js": "/business-card-app/static/js/main.123de212.chunk.js",
-    "main.js.map": "/business-card-app/static/js/main.123de212.chunk.js.map",
-    "runtime-main.js": "/business-card-app/static/js/runtime-main.88ea2c79.js",
-    "runtime-main.js.map": "/business-card-app/static/js/runtime-main.88ea2c79.js.map",
-    "static/js/2.7690fcf4.chunk.js": "/business-card-app/static/js/2.7690fcf4.chunk.js",
-    "static/js/2.7690fcf4.chunk.js.map": "/business-card-app/static/js/2.7690fcf4.chunk.js.map",
-    "static/js/3.f09eee12.chunk.js": "/business-card-app/static/js/3.f09eee12.chunk.js",
-    "static/js/3.f09eee12.chunk.js.map": "/business-card-app/static/js/3.f09eee12.chunk.js.map",
+    "main.css": "/business-card-app/static/css/main.53c31dcd.chunk.css",
+    "main.js": "/business-card-app/static/js/main.01692770.chunk.js",
+    "main.js.map": "/business-card-app/static/js/main.01692770.chunk.js.map",
+    "runtime-main.js": "/business-card-app/static/js/runtime-main.30ff8b93.js",
+    "runtime-main.js.map": "/business-card-app/static/js/runtime-main.30ff8b93.js.map",
+    "static/js/2.f4df3bf5.chunk.js": "/business-card-app/static/js/2.f4df3bf5.chunk.js",
+    "static/js/2.f4df3bf5.chunk.js.map": "/business-card-app/static/js/2.f4df3bf5.chunk.js.map",
+    "static/js/3.2455677e.chunk.js": "/business-card-app/static/js/3.2455677e.chunk.js",
+    "static/js/3.2455677e.chunk.js.map": "/business-card-app/static/js/3.2455677e.chunk.js.map",
     "index.html": "/business-card-app/index.html",
-    "static/css/main.4d156b93.chunk.css.map": "/business-card-app/static/css/main.4d156b93.chunk.css.map",
-    "static/js/2.7690fcf4.chunk.js.LICENSE.txt": "/business-card-app/static/js/2.7690fcf4.chunk.js.LICENSE.txt",
+    "static/css/main.53c31dcd.chunk.css.map": "/business-card-app/static/css/main.53c31dcd.chunk.css.map",
+    "static/js/2.f4df3bf5.chunk.js.LICENSE.txt": "/business-card-app/static/js/2.f4df3bf5.chunk.js.LICENSE.txt",
     "static/media/Output.css": "/business-card-app/static/media/woodback.1a0a635d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.88ea2c79.js",
-    "static/js/2.7690fcf4.chunk.js",
-    "static/css/main.4d156b93.chunk.css",
-    "static/js/main.123de212.chunk.js"
+    "static/js/runtime-main.30ff8b93.js",
+    "static/js/2.f4df3bf5.chunk.js",
+    "static/css/main.53c31dcd.chunk.css",
+    "static/js/main.01692770.chunk.js"
   ]
 }
