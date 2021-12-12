@@ -1,0 +1,45 @@
+.test{
+    height: 1080px;
+    width: 100%;
+    background-color: aquamarine;
+    display: flex;
+    text-align: center;
+}
+.Output{
+    align-items: right;
+    width: 50%;
+    background-color: white;
+    font-family: "Poppins";
+}
+#personal{
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    margin: 2vmin;
+    box-shadow: 3px 3px 10px 3px black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#form{
+    width: 50%;
+}
+.input{
+    margin-top: 10px;
+    font-size: 16px;
+    padding: 8px;
+}
+@media only screen and (max-width: 1200px) {
+    .test{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    .Output{
+        width: 100%;
+    }
+    #form{
+        width: 100%;
+        text-align: center;
+    }
+}

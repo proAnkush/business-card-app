@@ -1,0 +1,101 @@
+.Output{
+    text-align: -webkit-center;
+    background-image: url(../imgs/woodback.jpg);
+}
+#brandLogoOutput{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+}
+#personalOutput{
+    width: 600px;
+    height: 340px;
+    background-color: rgba(253,224,192,255);
+    box-shadow: 3px 3px 10px 3px black;
+    
+}
+#userName{
+    font-size: 35px;
+    margin-bottom: 0;
+    padding-top: 40px;
+}
+#title{
+    margin-top: 0;
+}
+#otherSide{
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    height: 340px;
+    box-shadow: 3px 3px 10px 3px black;
+    margin-bottom: 30%;
+    
+}
+#toby{
+    /* get it hr = toby */
+    height: 5px;
+    background-color: red;
+    width: 100%;
+    border: none;
+}
+#otherTop{
+    background-color: rgba(242,150,127,255);
+    height: 50%;
+    text-align: center;
+}
+#fnOT{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    opacity: 0.8;
+    padding-top: 120px;
+    font-family: "Poppins";
+    bottom: 0;
+}
+#otherBottom{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    height: 50%;
+    background-color: rgba(253,224,192,255);
+    position: relative;
+}
+#brandLogoOutput{
+    /* mix-blend-mode: color-burn; */
+}
+#brandLogoContainer{
+    position: absolute;
+    border-radius: 50px;
+    bottom: 0;
+    right: 0;
+    padding-right: 20px;
+}
+#lnOT{
+    display: block;
+    font-size: 30px;
+    font-family: "Poppins";
+}
+table {
+    table-layout: fixed;
+    border-collapse: collapse;
+    width: 70%;
+    /* border: 2px solid red; */
+    text-align: center;
+}
+td {
+    width: 150px;
+    height: 50px;
+}
+td+td {
+    width: auto;
+}
+@media only screen and (max-width: 600px) {
+    .Output{
+        width: 100%;
+    }
+    #fullOutputDiv{
+        width: 100%;
+    }
+
+}
